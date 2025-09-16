@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 329 capítulos 
+=======
+Bueno, este solo tiene que ser diferente
+>>>>>>> agregoBiblio
